@@ -1,6 +1,5 @@
-# Ex No:2a  Stop and Wait Protocol
-## NAME : ARAVINDAN D
-## REGISTER NUMBER : 212223240012
+# Ex No:1a  Stop and Wait Protocol
+
 ## AIM 
 To write a python program to perform stop and wait protocol
 ## ALGORITHM
