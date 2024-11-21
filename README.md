@@ -41,10 +41,10 @@ while True:
 ```
 ## OUTPUT
 ### CLIENT OUTPUT
-![CLIENT](https://github.com/c-sanjay/2a_Stop_and_Wait_Protocol/assets/147139405/083f9ced-4a81-4324-8cb4-f4d73a442a39)
+![Screenshot 2024-11-21 173341](https://github.com/user-attachments/assets/76ea72f2-95ba-4db1-a1c6-13b29f38a661)
 
 ### SERVER OUTPUT
-![SERVER](https://github.com/c-sanjay/2a_Stop_and_Wait_Protocol/assets/147139405/28f3d13a-6ded-4b48-bcbd-e825661904b6)
+![Screenshot 2024-11-21 173400](https://github.com/user-attachments/assets/b9ea4207-ddb9-49d7-91aa-bbaa1801ff04)
 
 
 ## RESULT
